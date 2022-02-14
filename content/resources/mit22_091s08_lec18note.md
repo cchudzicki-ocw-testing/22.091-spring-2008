@@ -4,7 +4,12 @@ description: Teaching notes for a lecture on the Pilgrim Nuclear Power Station c
   board and its basic safety functions.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/22-091-nuclear-reactor-safety-spring-2008/da7ee79cf4f30a54061c942d744ac76c_MIT22_091S08_lec18note.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: "Lecture: 18 \u2013 Pilgrim Station Background Information"
+type: OCWFile
 uid: da7ee79c-f4f3-0a54-061c-942d744ac76c
 ---

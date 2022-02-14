@@ -6,7 +6,12 @@ description: 'Teaching notes for a lecture on the fundamentals of nuclear reacto
   in the overall strategy of protection of the public. '
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/22-091-nuclear-reactor-safety-spring-2008/820341b3efada7f9805cbe5ef997fe16_MIT22_091S08_lec09note.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: "Lecture: 9 \u2013 Safety Systems and Functions"
+type: OCWFile
 uid: 820341b3-efad-a7f9-805c-be5ef997fe16
 ---

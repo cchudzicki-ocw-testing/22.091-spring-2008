@@ -5,7 +5,12 @@ description: Teaching notes for a lecture on reactor physics, cross sections, fi
   criticality control, diffusion theory, and neutron transport.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/22-091-nuclear-reactor-safety-spring-2008/a5cadee9c7c2b901a4135444baaab7a5_MIT22_091S08_lec02note.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: "Lecture: 2 \u2013 Reactor Physics Review"
+type: OCWFile
 uid: a5cadee9-c7c2-b901-a413-5444baaab7a5
 ---

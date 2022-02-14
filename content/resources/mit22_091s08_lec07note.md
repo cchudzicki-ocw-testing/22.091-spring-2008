@@ -5,8 +5,13 @@ description: Teaching notes for a lecture on fundamental design issues for nucle
   and accident considerations.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/22-091-nuclear-reactor-safety-spring-2008/80aba4280be7120edb315023412048cf_MIT22_091S08_lec07note.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: "Lecture: 7 \u2013 Design Issues and Power Cycles for Nuclear Plants - Rankine\
   \ Cycle"
+type: OCWFile
 uid: 80aba428-0be7-120e-db31-5023412048cf
 ---
