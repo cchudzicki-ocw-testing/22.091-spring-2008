@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: "Lecture: 5 \u2013 MIT Reactor Physics Exercise - Power Change"
-type: OCWFile
 uid: 38a867d7-5a71-cd02-35eb-e5bc75246745
 ---

@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: "Lecture: 11 \u2013 Probabilistic Safety Analysis"
-type: OCWFile
 uid: b3a2cb3c-447d-37fe-3d48-97c22b68a5a4
 ---

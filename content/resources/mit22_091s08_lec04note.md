@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: "Lecture: 4 \u2013 Fuel Depletion and Related Effects"
-type: OCWFile
 uid: acf78733-4ad4-bafd-9010-5d95ba0dd6aa
 ---

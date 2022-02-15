@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: "Lecture: 18 \u2013 Pilgrim Station Background Information"
-type: OCWFile
 uid: da7ee79c-f4f3-0a54-061c-942d744ac76c
 ---

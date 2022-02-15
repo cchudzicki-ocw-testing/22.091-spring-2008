@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: "Lecture: 19 \u2013 Three Mile Island Accident"
-type: OCWFile
 uid: 5efd8465-db13-1e30-3e6e-48864a39ef7a
 ---

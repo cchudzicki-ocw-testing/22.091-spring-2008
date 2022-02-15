@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: "Lecture: 22 \u2013 Safety Culture"
-type: OCWFile
 uid: 241ab92c-a1fe-4cc2-a9ad-fe945e71b7fb
 ---

@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: "Lecture: 3 \u2013 Reactor Kinetics and Control"
-type: OCWFile
 uid: 509c53dd-e11d-8916-02ac-fccf3320e748
 ---

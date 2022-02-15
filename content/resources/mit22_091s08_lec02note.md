@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: "Lecture: 2 \u2013 Reactor Physics Review"
-type: OCWFile
 uid: a5cadee9-c7c2-b901-a413-5444baaab7a5
 ---

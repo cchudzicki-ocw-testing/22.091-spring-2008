@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: "Lecture: 21 \u2013 Davis Besse - Near Miss 2002"
-type: OCWFile
 uid: 79fb938a-658c-0c0e-311c-ede704c46966
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: "Lecture: 24 \u2013 Current Regulatory Safety Issues"
-type: OCWFile
 uid: a6ce2dea-124d-f7e4-3d62-3e3189c2df89
 ---

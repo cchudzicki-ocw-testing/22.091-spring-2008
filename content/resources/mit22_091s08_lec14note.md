@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: "Lecture: 14 \u2013 Simulation Exercises of Accidents and Transients"
-type: OCWFile
 uid: 5b177bb2-0154-61fc-a66d-c2c38f802c56
 ---

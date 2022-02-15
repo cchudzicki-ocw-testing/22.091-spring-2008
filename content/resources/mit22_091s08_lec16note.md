@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: "Lecture: 16 \u2013 Seabrook Station Background Information"
-type: OCWFile
 uid: f57aacee-52c6-633d-35a3-67717c6b6e24
 ---

@@ -12,6 +12,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: "Lecture: 7 \u2013 Design Issues and Power Cycles for Nuclear Plants - Rankine\
   \ Cycle"
-type: OCWFile
 uid: 80aba428-0be7-120e-db31-5023412048cf
 ---

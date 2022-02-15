@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: "Lecture: 20 \u2013 Chernobyl"
-type: OCWFile
 uid: 53719f14-7e50-1cf9-d2db-2b1acc1ac87e
 ---

@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: "Lecture: 17 \u2013 Seabrook Station Simulator Exercises"
-type: OCWFile
 uid: c14df980-97f4-36d6-ed80-fd99b6a879b9
 ---

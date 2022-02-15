@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: "Lecture: 6 \u2013 Reactor Energy Removal"
-type: OCWFile
 uid: c09bed33-75ab-4ad0-5841-7ca080f54aae
 ---

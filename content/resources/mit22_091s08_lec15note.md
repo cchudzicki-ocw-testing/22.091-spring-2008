@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: "Lecture: 15 \u2013 Boiling Water Reactors"
-type: OCWFile
 uid: d61ce1c5-2ca7-0f18-aa6a-d364907e204d
 ---
