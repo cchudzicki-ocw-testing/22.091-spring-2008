@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types:
 - Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 5bf0bdaf-63b8-d8a3-bbaf-c6a132061d3e
 ---
