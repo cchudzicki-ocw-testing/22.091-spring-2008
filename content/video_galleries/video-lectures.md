@@ -17,7 +17,7 @@ videos:
   website: 22-091-nuclear-reactor-safety-spring-2008
 ---
 
-{{< resource_link 5bf0bdaf-63b8-d8a3-bbaf-c6a132061d3e "Lecture notes and slides" >}} are available for most sessions.
+{{% resource_link 5bf0bdaf-63b8-d8a3-bbaf-c6a132061d3e "Lecture notes and slides" %}} are available for most sessions.
 
 {{< video-gallery "2ce6efb6-fa84-1572-d6db-1d1d604b0fdb" >}}
 
