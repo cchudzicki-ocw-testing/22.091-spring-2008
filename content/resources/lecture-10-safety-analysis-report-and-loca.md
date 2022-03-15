@@ -9,10 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: 'Lecture Slides ([PDF](resources/mit22_091s08_lec10))#
+related_resources_text: 'Lecture Slides ([PDF](/courses/22-091-nuclear-reactor-safety-spring-2008/resources/mit22_091s08_lec10))#
 
 
-  Teaching Notes ([PDF](resources/mit22_091s08_lec10note))'
+  Teaching Notes ([PDF](/courses/22-091-nuclear-reactor-safety-spring-2008/resources/mit22_091s08_lec10note))'
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 10: Safety analysis report and LOCA'
