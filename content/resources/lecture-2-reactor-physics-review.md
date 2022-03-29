@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -15,6 +16,7 @@ related_resources_text: 'Lecture Slides ([PDF](/courses/22-091-nuclear-reactor-s
   Teaching Notes ([PDF](/courses/22-091-nuclear-reactor-safety-spring-2008/resources/mit22_091s08_lec02note))'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: Reactor physics review'
 uid: 67e14ccd-c404-90c7-1b21-64892714c421
 video_files:
