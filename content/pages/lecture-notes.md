@@ -7,7 +7,7 @@ ocw_type: CourseSection
 title: Lecture Notes
 uid: 5bf0bdaf-63b8-d8a3-bbaf-c6a132061d3e
 ---
-This section contains lecture notes and slides for the course. [Video lectures](/courses/22-091-nuclear-reactor-safety-spring-2008/video_galleries/video-lectures/) are available for some sessions.
+This section contains lecture notes and slides for the course. {{% resource_link "2ce6efb6-fa84-1572-d6db-1d1d604b0fdb" "Video lectures" %}} are available for some sessions.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
