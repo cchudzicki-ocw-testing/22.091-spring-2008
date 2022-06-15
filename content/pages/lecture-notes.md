@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics along with lecture
+  notes and slides for the course.
 draft: false
 learning_resource_types:
 - Lecture Notes
