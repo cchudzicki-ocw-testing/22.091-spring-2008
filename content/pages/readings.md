@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information on the required text for the course,
+  a supplemental text for power conversion lectures, general readings, and the schedule
+  of reading assignments.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
