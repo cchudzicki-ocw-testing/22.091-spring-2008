@@ -6,6 +6,7 @@ file: /courses/22-091-nuclear-reactor-safety-spring-2008/79fb938a658c0c0e311cede
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
